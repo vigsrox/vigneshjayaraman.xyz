@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - vigsrox
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Elektrobit/elos
+  - ThangaAyyanar/InfoMine
+  - neechalkaran/awesome-tamil
+  - KaniyamFoundation/Ebooks
+  - ziglang/zig
